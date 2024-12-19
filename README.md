@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore an
 - 🔭 I’m currently working on various open-source projects and personal projects.
 - 🌱 I’m continuously learning and improving my skills in web development, data science, and cloud computing.
 - 👯 I’m looking to collaborate on exciting projects that can make a difference.
-- 💬 Ask me about anything related to Python, JavaScript, and cloud technologies.
+- 💬 Ask me about anything related to GO, PHP, and cloud technologies.
 - 📫 How to reach me: [130144577@qq.com](mailto:130144577@qq.com)
 - ⚡ Fun fact: I love hiking and exploring new places!
 
@@ -29,10 +29,6 @@ Here are some of the technologies I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayuan97&layout=compact&theme=radical)
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
 Feel free to explore my repositories and reach out if you’d like to collaborate!
 
