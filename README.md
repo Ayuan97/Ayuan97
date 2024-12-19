@@ -8,17 +8,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore an
 - 🌱 I’m continuously learning and improving my skills in web development, data science, and cloud computing.
 - 👯 I’m looking to collaborate on exciting projects that can make a difference.
 - 💬 Ask me about anything related to Python, JavaScript, and cloud technologies.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [130144577@qq.com](mailto:130144577@qq.com)
 - ⚡ Fun fact: I love hiking and exploring new places!
 
 ## Tech Stack
 
 Here are some of the technologies I work with:
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** go, JavaScript, php
 - **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Data Science:** Pandas, NumPy, SciPy, scikit-learn
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:** AWS, Azure, GCP
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 
