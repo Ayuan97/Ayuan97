@@ -1,6 +1,6 @@
-```
-ayuan97
-```
+<p align="center">
+  <img src="assets/ayuan.gif" alt="ayuan" width="720" />
+</p>
 
 外挂、HV、DMA、YOLO 跟手。  
 点餐小程序、腐蚀面板、去水印、代理池。  
