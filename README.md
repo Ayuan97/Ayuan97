@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ayuan.gif" alt="ayuan" width="720" />
+  <img src="assets/ayuan.svg" alt="ayuan" width="720" />
 </p>
 
 外挂、HV、DMA、YOLO 跟手。  
